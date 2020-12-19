@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HpBoss&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HpBoss&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HpBoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: josonengineer@icloud.com
 - 🔭 I’m currently working on **ExpressSend** project
 <!--
